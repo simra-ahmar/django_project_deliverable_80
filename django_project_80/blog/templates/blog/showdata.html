@@ -1,0 +1,13 @@
+{% extends "blog/base.html" %}
+
+{%block content %}
+	<h1>Showing Data</h1>
+	<body>
+		{% for d in data %}
+		<h2> Contact : {{d.Contact}} </h2>
+		<h2> Address : {{d.Address}} </h2>
+		{% endfor %}
+	</body>
+{%endblock content%}
+
+

@@ -1,0 +1,37 @@
+{% extends "blog/base.html" %}
+
+{%block content %}
+	<H1>BHOOKAY</H1>
+
+	<script type="text/javascript">
+		function myFunction() {
+        var x = document.getElementById("myInput");
+         if (x.type === "password") {
+          x.type = "text";
+        } else {
+          x.type = "password";
+  }
+}
+		
+	</script>
+	
+	<form action="/action_page.php">
+		<div class=login>
+			<label> Username: <br></label>
+			<input type="text" name="username" placeholder="Username"required><br>
+    		<label>Password: <br></label>
+   		    <input type="password" name="password" placeholder="password" id="myInput"><br>
+            <button type="submit">LOGIN</button> 
+            <input type="checkbox" checked="checked"> 
+            <span>Remember me</span>    
+            <br><br>  
+             Forgot <a href="#">Password</a>   
+             <input type="checkbox" onclick="myFunction()">Show Password 
+         </div>  
+       
+
+</form>
+</div>
+{%endblock content%}
+   
+

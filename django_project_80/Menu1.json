@@ -1,0 +1,372 @@
+[
+ {
+   "restaurant": "Phillys",
+   "name": "Chicken Loaded Fries",
+   "price": 10
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Chicken Cheese Loaded Fries",
+   "price": 15
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Beef Burger",
+   "price": 20
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Chicken Burger",
+   "price": 11
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Chicken Wrap",
+   "price": 5
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Beef Wrap",
+   "price": 16
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Fudge Brownies",
+   "price": 5
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Bounty Brownie",
+   "price": 6
+ },
+ {
+   "restaurant": "Phillys",
+   "name": "Plain Fries",
+   "price": 20
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Spargel Suppe",
+   "price": 31
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Striped bass saute, meuniere",
+   "price": 20
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Anchovies",
+   "price": 30
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Fresh lobsters in every style",
+   "price": 20
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Celery",
+   "price": 50
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Pim-olas",
+   "price": 35
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Caviar",
+   "price": 75
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Sardines",
+   "price": 50
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "India chutney",
+   "price": 0.2
+ },
+ {
+   "restaurant": "Le Petit Souffle",
+   "name": "Pickles",
+   "price": 10
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "English walnuts",
+   "price": 30
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Pate de foies-gras",
+   "price": 21
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Pomard",
+   "price": 5
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Brook trout, mountain style",
+   "price": 2
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Whitebait, sauce tartare",
+   "price": 4
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Clams",
+   "price": 11
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Oysters",
+   "price": 14
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Claremont planked shad",
+   "price": 20
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "G. H. Mumm & Co's Extra Dry",
+   "price": 20
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Cerealine with Milk",
+   "price": 30
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Sliced Bananas",
+   "price": 40
+ },
+ {
+   "restaurant": "Izakaya Kikufuji",
+   "name": "Wheat Vitos",
+   "price": 15
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Sliced Tomatoes",
+   "price": 10
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Russian Caviare on Toast",
+   "price": 10
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Smoked beef in cream",
+   "price": 17
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Apple Sauce",
+   "price": 30
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Potage a la Victoria",
+   "price": 20
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Breakfast",
+   "price": 15
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Strawberries",
+   "price": 21
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "Preserved figs",
+   "price": 30
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "BLUE POINTS",
+   "price": 14
+ },
+ {
+   "restaurant": "Heat - Edsa Shangri-La",
+   "name": "CONSOMME ANGLAISE",
+   "price": 12
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "CREAM OF CAULIFLOWER",
+   "price": 5
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "BROILED SHAD, A LA MAITRE D'HOTEL",
+   "price": 3
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "SLICED CUCUMBERS",
+   "price": 10
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "SALTED ALMONDS",
+   "price": 15
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "POTATOES, JULIEN",
+   "price": 5
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "Cracked Wheat",
+   "price": 21
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "Malt Breakfast Food",
+   "price": 20
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "BOILED BEEF TONGUE, ITALIAN SAUCE",
+   "price": 15
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "Young Onions",
+   "price": 4
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "Pears",
+   "price": 10
+ },
+ {
+   "restaurant": "Ooma",
+   "name": "ROAST SIRLOIN OF BEEF, YORKSHIRE PUDDING",
+   "price": 11
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "ROAST EASTER LAMB, MINT SAUCE",
+   "price": 12
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Rockaways",
+   "price": 20
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Hafergrutze",
+   "price": 31
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "BROWNED POTATOES",
+   "price": 4
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Pampelmuse",
+   "price": 2
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Apfelsinen",
+   "price": 11
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Ananas",
+   "price": 10
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Milchreis",
+   "price": 15
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Grape fruit",
+   "price": 6
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Oranges",
+   "price": 24
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Calamari",
+   "price": 17
+ },
+ {
+   "restaurant": "Sambo Kojin",
+   "name": "Boiled Eggs",
+   "price": 20
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Consomme printaniere royal",
+   "price": 0.4
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Chicken gumbo",
+   "price": 0.8
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Tomato aux croutons",
+   "price": 0.4
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Onion au gratin",
+   "price": 1
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "St. Emilion",
+   "price": 18
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Radishes",
+   "price": 25
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Chicken soup with rice",
+   "price": 0.6
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Clam broth (cup)",
+   "price": 0.4
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Cream of new asparagus, croutons",
+   "price": 30
+ },
+ {
+   "restaurant": "Din Tai Fung",
+   "name": "Clear green turtle",
+   "price": 60
+ }
+]

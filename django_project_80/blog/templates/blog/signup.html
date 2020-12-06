@@ -1,0 +1,28 @@
+{% extends "blog/base.html" %}
+
+{%block content %}
+	<h1>BHOOKAY</h1>
+	<p>SIGN UP</p>
+
+	<form method="POST">
+		{% csrf_token %}
+		<div class=signup>
+			<label>Name</label><br>
+			<input type="text" name="name" placeholder="name"required><br>
+			<label>Username</label><br>
+			<input type='text' name="username" placeholder="username" required><br>
+			<label>Email</label><br>
+			<input type='text' name="email" placeholder="email" required><br>
+			<label>Password</label><br>
+			<input type='text' name="password" placeholder="password" required><br>
+			<label>Contact</label><br>
+			<input type='number' name="contact" placeholder="03xx-xxxxxxx" required><br>
+			<label>Address</label><br>
+			<input type='text' name="address" placeholder="eg:housenumber,street,area" required><br>
+			<button type="submit">SIGN UP</button> 
+		</div>
+	</form>
+			
+{%endblock content%}
+
+

@@ -1,0 +1,80 @@
+[
+ { 
+   "name": "Consomme printaniere royal",
+   "highest_price": 0.4
+ },
+ {
+   "name": "Chicken gumbo",
+   "highest_price": 0.8
+ },
+ {
+   "name": "Tomato aux croutons",
+   "highest_price": 0.4
+ },
+ {
+   "name": "Onion au gratin",
+   "highest_price": 1
+ },
+ {
+   "name": "St. Emilion",
+   "highest_price": 18
+ },
+ {
+   "name": "Radishes",
+   "highest_price": 25
+ },
+ {
+   "id": 8,
+   "name": "Chicken soup with rice",
+   "highest_price": 0.6
+ },
+ {
+   "name": "Clam broth (cup)",
+   "highest_price": 0.4
+ },
+ {
+   "name": "Cream of new asparagus, croutons",
+   "highest_price": 0
+ },
+ {
+   "name": "Clear green turtle",
+   "highest_price": 60
+ },
+ {
+   "name": "Striped bass saute, meuniere",
+   "highest_price": 0
+ },
+ {
+
+   "name": "Anchovies",
+   "highest_price": 30
+ },
+ {
+   "name": "Fresh lobsters in every style",
+   "highest_price": 0
+ },
+ {
+   "name": "Celery",
+   "highest_price": 50
+ },
+ {
+   "name": "Pim-olas",
+   "highest_price": 35
+ },
+ {
+   "name": "Caviar",
+   "highest_price": 75
+ },
+ {
+   "name": "Sardines",
+   "highest_price": 50
+ },
+ {
+   "name": "India chutney",
+   "highest_price": 0.2
+ },
+ {
+   "name": "Pickles",
+   "highest_price": 10
+ }
+]

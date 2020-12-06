@@ -1,0 +1,10 @@
+{% extends "blog/base.html" %}
+
+{%block content %}
+	<h1>BHOOKAY</h1>
+	<p> Choose a Restaurant to order from<p>
+	{% for post in posts %}
+		<h1>{{ post.title }}</h1>
+	{% endfor %}
+
+{%endblock content%}

@@ -1,0 +1,44 @@
+{% extends "blog/base.html" %}
+
+{%block content %}
+	
+
+	
+    	
+<p>{{ object.Name }}</p>
+<p> Location: {{object.Location}}</p>
+<p> Cuisine: {{object.Cuisines}}</p>
+<p> Rating: {{object.Ratings}}</p>
+<p> Price Range: {{object.PriceRange}}</p>
+{% if object.Name == 'Phillys' %}
+<a href="{% url 'blog-menu' %}"><button type="submit">Menu</button> </a>
+{% endif %}
+{% if object.Name == 'Izakaya Kikufuji' %}
+<a href="{% url 'blog-menuI' %}"><button type="submit">Menu</button> </a>
+{% endif %}
+{% if object.Name == 'Ooma' %}
+<a href="{% url 'blog-menuO' %}"><button type="submit">Menu</button> </a>
+{% endif %}
+{% if object.Name == 'Le Petit Souffle' %}
+<a href="{% url 'blog-menuS' %}"><button type="submit">Menu</button> </a>
+{% endif %}
+{% if object.Name == 'Heat - Edsa Shangri-La' %}
+<a href="{% url 'blog-menuH' %}"><button type="submit">Menu</button> </a>
+{% endif %}
+{% if object.Name == 'Din Tai Fung' %}
+<a href="{% url 'blog-menuD' %}"><button type="submit">Menu</button> </a>
+{% endif %}
+{% if object.Name == 'Sambo Kojin' %}
+<a href="{% url 'blog-menuK' %}"><button type="submit">Menu</button> </a>
+{% endif %}
+
+
+
+ 
+ 
+
+    
+	
+
+{%endblock content%}
+
